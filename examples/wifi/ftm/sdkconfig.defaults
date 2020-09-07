@@ -1,0 +1,2 @@
+# Build for ESP32-S2 by default
+CONFIG_IDF_TARGET="esp32s2"
